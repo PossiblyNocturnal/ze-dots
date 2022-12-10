@@ -1,5 +1,7 @@
 A small set of stuff I (might) use when setting up a new OS. Nothing crazy.
 ![Screenshot](https://raw.githubusercontent.com/CephieCodesStuff/ze-dots/main/screenshot.png)
+![Screenshot]()
+
 
 <h3>General info</h3>
 <li><b>DE:</b> GNOME (whatever the current version is)</li>
